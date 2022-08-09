@@ -1,43 +1,42 @@
 ---
-# YOUR-NAME (eg. Chandra Arya)
+# YOUR-NAME (eg. Hajer)
 YOUR-introduction
 Eg. Software and DevOps engineer, Cloud architect, Instructor.
 
 <div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
-| <a href="http://chandradeoarya.com">My Tech blog</a>
+<a href="hajer-alotaibi@hotmail.com</a>
+| 
 </div>
 
 
 ## Currently
-YOUR-JOB/STUDY
-Lead DevOps instructor at Coding Dojo
+STUDY
+
 
 ### Specialized in
 
-AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems
+AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems,tableau
 
 
 
 ## Education
-
-NAME of your Uni
+king abdulaziz unversity
 
 
 
 ## Awards
 
-LIST of award
+
 
 
 
 ## Publications
 
-Gait analysis based human recognition system `April 2016`
+
 
 ## Occupation
-YOUR-job/study
-`Codingdojo` — Lead DevOps Cloud instructor
+study
+
 
 ## Projects
 
